@@ -1,4 +1,4 @@
-                   -`                    Mayank Deshpande@neo
+```                   -`                    Mayank_Deshpande@neo
                   .o+`                   -----------
                  `ooo/                   OS: Arch Linux, btw
                 `+oooo:                  Host: X542UQR 1.0
@@ -17,3 +17,4 @@
   `+sso+:-`                 `.-/+oso:    GPU: Intel UHD Graphics 620
  `++:.                           `-/+/   Memory: 1400MiB / 15892MiB
  .`                                 `/
+```
