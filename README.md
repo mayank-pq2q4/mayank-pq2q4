@@ -1,2 +1,2 @@
-[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-pq2q4&bg_color=0,141e3004,141e3004&title_color=fff&text_color=fff&show_icons=true)](https://github.com/mayank-pq2q4/mayank-pq2q4)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-pq2q4&langs_count=10&layout=compact&bg_color=0,141e3004,141e3004&title_color=fff&text_color=fff&hide=jupyter%20notebook,html,java)](https://github.com/mayank-pq2q4/mayank-pq2q4)
+[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-pq2q4&bg_color=0,141e30,141e30&title_color=fff&text_color=fff&show_icons=true)](https://github.com/mayank-pq2q4/mayank-pq2q4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-pq2q4&langs_count=10&layout=compact&bg_color=0,141e30,141e30&title_color=fff&text_color=fff&hide=jupyter%20notebook,html,java)](https://github.com/mayank-pq2q4/mayank-pq2q4)
